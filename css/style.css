@@ -1,0 +1,135 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #7581a1;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1  {
+    color: #192b59;
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.nav {
+    color: #6e7ea9;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;  
+}
+
+.btn-free {
+    color: white;
+    font-weight: 400;
+    background-color: #1085e4;
+}
+
+.grid h2 {
+    color: #192b59;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.grid h2 span {
+    color: #1085e4;
+    font-size: 14px;
+    font-weight: 800;
+    display: block; 
+}
+
+.grid-item h3 {
+    color: #192b59;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.grid-item a {
+    color: #1085e4;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.grid-author {
+    color: #1085e4;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.grid-author span {
+    color: #192b59;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.page-subscribe h2 span {
+    color: #00bffe;
+    font-size: 14px;
+    font-weight: 800;
+    display: block;
+}
+
+.page-subscribe h2 {
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.page-subscribe p {
+    color: #dfe8ff;
+    font-size: 18px;
+}
+
+.page-software h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.page-software dt {
+    color: #5a6789;
+    font-weight: 700;
+}
+
+.page-stat h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: capitalize;
+    letter-spacing: -2px;
+}
+
+.page-stat h2 span {
+    color: #1085e4;
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    display: block;
+}
+
+.page-stat li {
+    color: #1085e4;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.page-stat li span {
+    color: #bacbdc;
+    font-size: 60px;
+    font-weight: 700;
+    display: block;
+}
+
+.page-app h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-weight: 600;
+    letter-spacing: -2px;
+}
