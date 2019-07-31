@@ -21,6 +21,7 @@ h1  {
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
+    list-style-type: none;
 }
 
 .btn-free {
