@@ -20,7 +20,7 @@ h1  {
     color: #6e7ea9;
     font-size: 12px;
     font-weight: 700;
-    text-transform: uppercase;  
+    text-transform: uppercase;
 }
 
 .btn-free {
@@ -132,4 +132,101 @@ h1  {
     font-size: 50px;
     font-weight: 600;
     letter-spacing: -2px;
+}
+
+.page-app .available-now {
+    color: #c4d2dd;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.page-analytics h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.page-analytics a {
+    color: white;
+    background-color: #1085e4;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.page-screen h2 span {
+    color: #1085e4;
+    font-size: 18px;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+}
+
+.page-screen h2 {
+    color: #192b59;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.page-clients h2 span {
+    color: #85c8ff;
+    font-size: 18px;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+}
+
+.page-clients h2 {
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.box-clients .name {
+    color: #000958;
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.box-clients .position {
+    color: #1085e4;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.page-plan h2 span {
+    color: #1085e4;
+    font-size: 18px;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+    letter-spacing: 3px;
+}
+
+.page-plan h2 {
+    color: #192b59;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.box-price-item h3 {
+    color: #000958;
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.box-price-item p strong {
+    color: #0084ff;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.box-price-item .active {
+    color: white;
 }
