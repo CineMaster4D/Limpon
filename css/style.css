@@ -14,16 +14,35 @@ h1  {
     color: #192b59;
     font-size: 80px;
     font-weight: 600;
+    max-width: 540px;
+    line-height: 92px;
+    letter-spacing: -2.5px;
+    margin-bottom: 62px;
+}
+
+
+
+.wrap {
+    max-width: 1110px;
+    margin: 0 auto;
 }
 
 .nav {
-    color: #6e7ea9;
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+}
+
+.nav>li {
+    padding: 0 21.5px;
+}
+
+.nav-item {
+    color: #6e7ea9;
 }
 
 .btn-primary {
@@ -150,15 +169,15 @@ h1  {
     font-weight: 700;
 }
 
-.page-stat h2 {
+.title-h2 {
     color: #192b59;
     font-size: 50px;
     font-weight: 600;
     text-transform: capitalize;
-    letter-spacing: -2px;
+    letter-spacing: -2.5px;
 }
 
-.page-stat h2 span {
+.title-h2 span {
     color: #1085e4;
     font-size: 16px;
     font-weight: 800;
@@ -167,18 +186,28 @@ h1  {
     display: block;
 }
 
-.page-stat li {
+.list-stat li {
     color: #1085e4;
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2.7px;
 }
 
-.page-stat li span {
+.list-stat li span {
     color: #bacbdc;
     font-size: 60px;
-    font-weight: 700;
     display: block;
+    margin-bottom: 21px;
+    letter-spacing: 0;
+}
+
+.list-stat {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    
 }
 
 .page-app h2 {
